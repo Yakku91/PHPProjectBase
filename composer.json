@@ -1,0 +1,16 @@
+{
+    "name": "yunusakkus/myvideos-yns",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MyVideo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Y.Akkus",
+            "email": "yunus.akkus@itbildungshauseducation.onmicrosoft.com"
+        }
+    ],
+    "require": {}
+}
